@@ -1,5 +1,5 @@
 # Multivariate-Polynomial-Public-Key-Digital-Signature
-A Teeny-Tiny Multivariate Polynomial Public Key / Digital Signature (MPPK/DS)
+A Teeny-Tiny Implementation of Multivariate Polynomial Public Key / Digital Signature (MPPK/DS)
 
 This is a minimal implementation of the Key Encapsulation Mechanism described in the article:
 
